@@ -1,6 +1,11 @@
-## Hi there :taurus:
-:taurus:
+## I'm Junichiro :soccer_ball:
 
+Founder, ATD InnoSolutions Inc.
+
+I have worked on designing Microsoft 365 and Microsoft Azure solutions, as well as other system development and driving digital transformation (DX).  
+Leveraging this experience, creating new initiatives and taking on new challenges are what drive me.
+
+Currently, my focus is on developing products and launching new ventures that leverage AI and machine learning, alongside providing technical support for these cutting-edge technologies.
 
 
 

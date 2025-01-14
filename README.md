@@ -1,7 +1,7 @@
 ## ![cool gif](https://readme-workflows.github.io/Readme-Icons/icons/gifs/cool.gif) I'm Junichiro ⚽
 
 
-Founder, ATD InnoSolutions Inc.
+Founder & CEO, ATD InnoSolutions Inc.
 
 ## My Profile 👀
 I have worked on designing Microsoft 365 and Microsoft Azure solutions, as well as other system development and driving digital transformation (DX).  
